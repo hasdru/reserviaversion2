@@ -125,3 +125,14 @@ a.headernavlink :link
     border: solid 1px #d9d9d9;
 
 } 
+#loge
+{ 
+    margin-top:20px;
+    display: flex;
+}
+#loge> h3
+{
+padding-bottom: 20px;
+padding-left: 10px;
+margin: 0px;
+}
