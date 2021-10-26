@@ -7,3 +7,20 @@
     font-weight: normal;
 
 }
+
+body
+{
+    
+    margin: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: Raleway-VariableFont_wght, Arial, Helvetica, sans-serif;
+    text-align: left;
+    
+}
+
+header
+{
+    display: flex;
+    justify-content: space-between;   
+}
