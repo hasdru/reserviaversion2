@@ -65,3 +65,18 @@ a.headernavlink :link
     width: 69px;
     height: 40px;
 }
+#bas
+ {
+     margin-bottom: 20px;
+     display: block;
+     
+ }  
+#bas >p
+{
+    padding-left: 5px;
+}
+#bas,h1,h2
+{
+    font-size: large;
+    width: 900px;
+}
