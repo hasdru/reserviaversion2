@@ -60,3 +60,8 @@ a.headernavlink :link
 {
     color: transparent;
 }
+.headerimg
+{
+    width: 69px;
+    height: 40px;
+}
