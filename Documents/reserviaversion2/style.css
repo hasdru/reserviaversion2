@@ -1,3 +1,9 @@
-h1 {
-   color: red;
+/* mise en place de la police raleway */
+@font-face 
+{
+    font-family: Raleway-VariableFont_wght;
+    src: url(polices/static/Raleway-Black.ttf) format('truetype');
+    src: url(polices/static/Raleway-bold;ttf) format('truetype');
+    font-weight: normal;
+
 }
