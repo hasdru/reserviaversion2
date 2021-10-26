@@ -18,6 +18,11 @@ body
     text-align: left;
     
 }
+main
+{
+max-width: 1200px;
+margin: auto;
+}
 
 header
 {
@@ -29,7 +34,7 @@ header
 nav a
 {
     
-    font-size: 1.3em;
+    font-size: 20px;
     padding-bottom: 3px;
     text-decoration: none;
 } 
@@ -48,7 +53,10 @@ a
 }
 .headernavlink
 {
-    border-top: 3px solid #0065FC;
     padding: 10px;
-    
+}
+
+a.headernavlink :link
+{
+    color: transparent;
 }
