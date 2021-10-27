@@ -23,6 +23,16 @@ main
 max-width: 1200px;
 margin: auto;
 }
+section, img
+{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+section, article
+{
+    border-radius: 10px;
+    margin: 10px
+}
 
 header
 {
