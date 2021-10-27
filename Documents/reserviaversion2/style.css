@@ -260,3 +260,20 @@ margin: 0px;
 {
     align-self: center;
 }
+#activites
+{
+    height: 717px;
+    padding: 10px;
+    margin: 10px; ;
+    text-align: left;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+#activites > h1
+{
+    
+    width: 220px;
+}
