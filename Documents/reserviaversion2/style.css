@@ -256,3 +256,7 @@ margin: 0px;
 {
     font-size: 5px;
 }
+#hebergement, #populaire > h2
+{
+    align-self: center;
+}
