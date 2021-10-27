@@ -183,3 +183,64 @@ margin: 0px;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
 }
+.hebergement__card
+{
+ 
+  height:230px ;
+  width: 30%;  
+  border: solid 2px #d9d9d9;
+  margin: 5px;
+  padding-bottom: 5px;
+}
+.hebergement__card img
+{
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+.hebergement__card h3, span,p
+{
+    padding-left: 20px;
+}
+#populaire  
+{ 
+    margin-top: 50px;
+    background-color:#F2F2F2; 
+    
+}
+#populaire > h2
+{
+    display: inline;
+    /*padding-right: 70px;*/
+
+    padding-left: 10px;
+    padding-right: 170px;
+    padding-bottom: 2px;
+}
+ 
+.populaire__card
+{   
+    height: 180px; ;
+    width: 350px; 
+    border: solid 2px #d9d9d9; 
+    
+}
+.populaire__card img
+{   
+    width: 49%;
+    height: 100%;
+    object-fit: cover;
+    padding-right: 3px;
+}
+.populaire__card div
+{   
+    float: right;
+    width: 50%;
+    height: 100%;
+
+}
+
+#populaire  > h3
+{
+    font-size: 0.3em;
+}
