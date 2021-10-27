@@ -39,7 +39,25 @@ header
     display: flex;
     justify-content: space-between;   
 }
+footer 
+{
+    text-align: left;
+    background-color:#F2F2F2 ;
+    display: flex;
+    
+    
+}
+ footer li
+{
+    
+    list-style-type: none;
+    
+}
 
+footer h2
+{
+padding-left: 40px;
+}
 
 nav a
 {
