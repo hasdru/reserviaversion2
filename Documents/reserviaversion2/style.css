@@ -89,7 +89,7 @@ nav a
 
 a
 {
-    color:#d9d9d9;
+    color:gray;
 }
 .populaire__card :hover
 {
@@ -192,13 +192,26 @@ margin: 0px;
 {
     display: flex;
 }
+#hebergement
+{
+    width: 70%;
+    background-color:#F2F2F2;
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+#hebergement, h1 ,h2
+{
+    
+    color: black;
+}
 .recherche
 {   height: 30px;
     width: 300px;
-    display: flex;
-    flex-wrap: wrap;
- 
-    
+    display: flex;   
 }
 .recherche > span
 {   padding-top: 5px;
